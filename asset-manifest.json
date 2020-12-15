@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/meng-first-repo/static/css/main.d2ed6ae4.chunk.css",
-    "main.js": "/meng-first-repo/static/js/main.5dd45fb2.chunk.js",
-    "main.js.map": "/meng-first-repo/static/js/main.5dd45fb2.chunk.js.map",
-    "runtime-main.js": "/meng-first-repo/static/js/runtime-main.bd54c56a.js",
-    "runtime-main.js.map": "/meng-first-repo/static/js/runtime-main.bd54c56a.js.map",
-    "static/js/2.a4609176.chunk.js": "/meng-first-repo/static/js/2.a4609176.chunk.js",
-    "static/js/2.a4609176.chunk.js.map": "/meng-first-repo/static/js/2.a4609176.chunk.js.map",
-    "index.html": "/meng-first-repo/index.html",
-    "precache-manifest.a4f87d7591e8e92ea6cb5bc0e7f4aff7.js": "/meng-first-repo/precache-manifest.a4f87d7591e8e92ea6cb5bc0e7f4aff7.js",
-    "service-worker.js": "/meng-first-repo/service-worker.js",
-    "static/css/main.d2ed6ae4.chunk.css.map": "/meng-first-repo/static/css/main.d2ed6ae4.chunk.css.map",
-    "static/js/2.a4609176.chunk.js.LICENSE.txt": "/meng-first-repo/static/js/2.a4609176.chunk.js.LICENSE.txt",
-    "static/media/index.scss": "/meng-first-repo/static/media/cold-bg.ef6f79fd.jpg"
+    "main.css": "/meng-first-repo/weather-app-meng/example/static/css/main.38d70fb6.chunk.css",
+    "main.js": "/meng-first-repo/weather-app-meng/example/static/js/main.5dd45fb2.chunk.js",
+    "main.js.map": "/meng-first-repo/weather-app-meng/example/static/js/main.5dd45fb2.chunk.js.map",
+    "runtime-main.js": "/meng-first-repo/weather-app-meng/example/static/js/runtime-main.a3b58d6d.js",
+    "runtime-main.js.map": "/meng-first-repo/weather-app-meng/example/static/js/runtime-main.a3b58d6d.js.map",
+    "static/js/2.a4609176.chunk.js": "/meng-first-repo/weather-app-meng/example/static/js/2.a4609176.chunk.js",
+    "static/js/2.a4609176.chunk.js.map": "/meng-first-repo/weather-app-meng/example/static/js/2.a4609176.chunk.js.map",
+    "index.html": "/meng-first-repo/weather-app-meng/example/index.html",
+    "precache-manifest.d9682f717834ca5b5d08d26ee65163ef.js": "/meng-first-repo/weather-app-meng/example/precache-manifest.d9682f717834ca5b5d08d26ee65163ef.js",
+    "service-worker.js": "/meng-first-repo/weather-app-meng/example/service-worker.js",
+    "static/css/main.38d70fb6.chunk.css.map": "/meng-first-repo/weather-app-meng/example/static/css/main.38d70fb6.chunk.css.map",
+    "static/js/2.a4609176.chunk.js.LICENSE.txt": "/meng-first-repo/weather-app-meng/example/static/js/2.a4609176.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/meng-first-repo/weather-app-meng/example/static/media/cold-bg.ef6f79fd.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.bd54c56a.js",
+    "static/js/runtime-main.a3b58d6d.js",
     "static/js/2.a4609176.chunk.js",
-    "static/css/main.d2ed6ae4.chunk.css",
+    "static/css/main.38d70fb6.chunk.css",
     "static/js/main.5dd45fb2.chunk.js"
   ]
 }

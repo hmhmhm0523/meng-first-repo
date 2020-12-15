@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/my-weather-app/static/css/main.50b9623e.chunk.css",
-    "main.js": "/my-weather-app/static/js/main.5dd45fb2.chunk.js",
-    "main.js.map": "/my-weather-app/static/js/main.5dd45fb2.chunk.js.map",
-    "runtime-main.js": "/my-weather-app/static/js/runtime-main.00f05a47.js",
-    "runtime-main.js.map": "/my-weather-app/static/js/runtime-main.00f05a47.js.map",
-    "static/js/2.a4609176.chunk.js": "/my-weather-app/static/js/2.a4609176.chunk.js",
-    "static/js/2.a4609176.chunk.js.map": "/my-weather-app/static/js/2.a4609176.chunk.js.map",
-    "index.html": "/my-weather-app/index.html",
-    "precache-manifest.33841f9cbe1b15da4fc15aed5f1240e1.js": "/my-weather-app/precache-manifest.33841f9cbe1b15da4fc15aed5f1240e1.js",
-    "service-worker.js": "/my-weather-app/service-worker.js",
-    "static/css/main.50b9623e.chunk.css.map": "/my-weather-app/static/css/main.50b9623e.chunk.css.map",
-    "static/js/2.a4609176.chunk.js.LICENSE.txt": "/my-weather-app/static/js/2.a4609176.chunk.js.LICENSE.txt",
-    "static/media/index.scss": "/my-weather-app/static/media/cold-bg.ef6f79fd.jpg"
+    "main.css": "/meng-first-repo/static/css/main.d2ed6ae4.chunk.css",
+    "main.js": "/meng-first-repo/static/js/main.5dd45fb2.chunk.js",
+    "main.js.map": "/meng-first-repo/static/js/main.5dd45fb2.chunk.js.map",
+    "runtime-main.js": "/meng-first-repo/static/js/runtime-main.bd54c56a.js",
+    "runtime-main.js.map": "/meng-first-repo/static/js/runtime-main.bd54c56a.js.map",
+    "static/js/2.a4609176.chunk.js": "/meng-first-repo/static/js/2.a4609176.chunk.js",
+    "static/js/2.a4609176.chunk.js.map": "/meng-first-repo/static/js/2.a4609176.chunk.js.map",
+    "index.html": "/meng-first-repo/index.html",
+    "precache-manifest.a4f87d7591e8e92ea6cb5bc0e7f4aff7.js": "/meng-first-repo/precache-manifest.a4f87d7591e8e92ea6cb5bc0e7f4aff7.js",
+    "service-worker.js": "/meng-first-repo/service-worker.js",
+    "static/css/main.d2ed6ae4.chunk.css.map": "/meng-first-repo/static/css/main.d2ed6ae4.chunk.css.map",
+    "static/js/2.a4609176.chunk.js.LICENSE.txt": "/meng-first-repo/static/js/2.a4609176.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/meng-first-repo/static/media/cold-bg.ef6f79fd.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.00f05a47.js",
+    "static/js/runtime-main.bd54c56a.js",
     "static/js/2.a4609176.chunk.js",
-    "static/css/main.50b9623e.chunk.css",
+    "static/css/main.d2ed6ae4.chunk.css",
     "static/js/main.5dd45fb2.chunk.js"
   ]
 }
